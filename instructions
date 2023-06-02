@@ -1,0 +1,7 @@
+-- Notes
+
+NVIDIA driver must not be installed while Xorg is running
+
+-- Packages
+
+xorg git suckless-tools gcc libx11-dev libxinerama-dev libxft-dev libwebkit2gtk-4.0-dev nitrogen xcompmgr nvidia-driver firmware-misc-nonfree
