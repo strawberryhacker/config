@@ -1,0 +1,32 @@
+{
+    "workbench.colorTheme": "Plain (Gray)",
+
+    "debug.console.fontSize": 15,
+    "debug.console.lineHeight": 36,
+
+    "editor.fontSize": 15,
+    "editor.lineHeight": 20,
+    "editor.fontFamily": "Klee One",
+
+    "editor.bracketPairColorization.enabled": false,
+    "editor.colorDecorators": false,
+    "editor.cursorStyle": "underline-thin",
+    "editor.glyphMargin": false,
+    "editor.guides.indentation": false,
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.matchBrackets": "near",
+    "editor.minimap.enabled": false,
+    "editor.occurrencesHighlight": false,
+    "editor.renderLineHighlight": "none",
+    "editor.renderWhitespace": "none",
+    "editor.scrollbar.horizontalScrollbarSize": 2,
+    "editor.scrollbar.verticalScrollbarSize": 2,
+    "explorer.decorations.badges": false,
+    "problems.decorations.enabled": false,
+    "workbench.activityBar.visible": false,
+    "workbench.editor.showTabs": false,
+    "workbench.iconTheme": "vs-seti",
+    "workbench.statusBar.visible": false,
+    "workbench.tree.renderIndentGuides": "none",
+    "files.autoSave": "afterDelay",
+}
