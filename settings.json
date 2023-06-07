@@ -1,16 +1,18 @@
 {
-    "workbench.colorTheme": "Plain (Gray)",
+    "workbench.colorTheme": "Simple BW Light",
 
     "debug.console.fontSize": 15,
     "debug.console.lineHeight": 36,
 
     "editor.fontSize": 15,
     "editor.lineHeight": 20,
-    "editor.fontFamily": "Klee One",
+    "editor.fontWeight": "500",
+    "editor.fontFamily": "Courier Prime",
 
+    "editor.tabSize": 2,
     "editor.bracketPairColorization.enabled": false,
     "editor.colorDecorators": false,
-    "editor.cursorStyle": "underline-thin",
+    "editor.cursorStyle": "line-thin",
     "editor.glyphMargin": false,
     "editor.guides.indentation": false,
     "editor.hideCursorInOverviewRuler": true,
@@ -29,4 +31,6 @@
     "workbench.statusBar.visible": false,
     "workbench.tree.renderIndentGuides": "none",
     "files.autoSave": "afterDelay",
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
 }
