@@ -9,4 +9,5 @@ xorg git suckless-tools gcc libx11-dev libxinerama-dev libxft-dev libwebkit2gtk-
 -- Instructions
 
 Move .xinitrc to ~
+Move .bash_profile to ~
 Run startx
