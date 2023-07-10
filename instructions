@@ -4,10 +4,26 @@ NVIDIA driver must NOT be installed while Xorg is running
 
 -- Packages
 
-xorg git suckless-tools gcc libx11-dev libxinerama-dev libxft-dev libwebkit2gtk-4.0-dev nitrogen xcompmgr nvidia-driver firmware-misc-nonfree
+xorg 
+git 
+suckless-tools 
+gcc 
+libx11-dev 
+libxinerama-dev 
+libxft-dev 
+libwebkit2gtk-4.0-dev 
+nitrogen 
+xcompmgr 
+nvidia-driver 
+firmware-misc-nonfree
+xbindkeys 
+xsel 
+xdotool
 
 -- Instructions
 
+Enter dwm and run 'sudo make clean install'
+Enter st and run 'sudo make clean install'
 Move .xinitrc to ~
 Move .bash_profile to ~
-Run startx
+Move .xbindkeysrc to ~
