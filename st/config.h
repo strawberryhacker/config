@@ -11,6 +11,12 @@ static char *font2[] = { "JoyPixels:pixelsize=10:antialias=true:autohint=true" }
 static int borderpx = 2;
 
 /*
+┌─── []
+└─── 
+
+*/
+
+/*
  * What program is execed by st depends of these precedence rules:
  * 1: program passed with -e
  * 2: utmp option
@@ -140,7 +146,6 @@ static const char *colorname[] = {
 	"#282828", /* 258 -> bg */
 	"#ebdbb2", /* 259 -> fg */
 };
-
 
 /*
  * Default colors (colorname index)
