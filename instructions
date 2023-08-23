@@ -2,6 +2,8 @@
 
 NVIDIA driver must NOT be installed while Xorg is running
 
+Font: Short Stack
+
 -- Packages
 
 xorg 
